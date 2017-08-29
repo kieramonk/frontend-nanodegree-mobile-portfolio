@@ -23,7 +23,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="description" content="We are a charity working to support vulnerable children in England and Wales. Find out how you can help and make a difference with a donation." />
-    <title>The Children's Society | Good Childhood | Donate</title>
+    <title>The Children's Society | Donate | Campaigns</title>
     <link rel="shortcut icon" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/favicon.ico" type="image/x-icon">
     
     
@@ -458,13 +458,13 @@
 <meta property="og:description" content=""/>
 <meta name="description" content=""/>
 <meta property="og:image" content=""/>
-<link rel="canonical" href="https://donate.childrenssociety.org.uk/page/13076/donate/1?locale=en-GB"/>
-<meta property="og:url" content="https://donate.childrenssociety.org.uk/page/13076/donate/1?locale=en-GB"/>
+<link rel="canonical" href="https://donate.childrenssociety.org.uk/page/10449/donate/1?mode=DEMO&amp;locale=en-GB"/>
+<meta property="og:url" content="https://donate.childrenssociety.org.uk/page/10449/donate/1?mode=DEMO&amp;locale=en-GB"/>
 <link rel="image_src" href=""/>
 <link href='/ea-demo/frontend/pbAssets/build/css/enPage.css' rel='stylesheet' type='text/css' />
-<script src='/page/13076/campaigner/0/pagedata.js?locale=en-GB'></script>
+<script src='/page/10449/campaigner/0/pagedata.js?locale=en-GB'></script>
 <script src='/ea-demo/frontend/pbAssets/build/js/enPage.js'></script>
-<script>var pageJson = {"campaignPageId":13076,"pageNumber":1,"campaignId":76358,"clientId":1936,"pageName":"GCR17A_GoodChildhoodAfterCampaign_2017_DC228 ","giftProcess":false,"locale":"en-GB"};</script>
+<script>var pageJson = {"campaignPageId":10449,"pageNumber":1,"campaignId":72224,"clientId":1936,"pageName":"DMDC17B_AfterCampaignAction_2017_DC174","giftProcess":false,"locale":"en-GB"};</script>
 </head>
   <body>
     
@@ -527,10 +527,14 @@
 		<div class="en__component en__component--row en__component--row--1">
 		<div class="en__component en__component en__component--column">
 		<div class="en__component en__component--imageblock">
-	<img src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/Chris-outside-sadPS.jpg?v=1504016936000" class="pageImage" alt="" data-unit="px" data-ratio-lock="true" style="height: 240px; width: 1100px;">
+	<img src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/ChrisThankYouPS1160x250.jpg?v=1497021785000" class="pageImage" alt="" data-unit="px" data-ratio-lock="false" style="height: 250px; width: 1160px;">
 	
 	
 </div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
 		<div class="en__component en__component--codeblock"><style>
      /* Always show other box */
     .en__field--donationAmt .en__field__item--other.en__field__item--hidden {
@@ -545,10 +549,6 @@
         });
     });
 </script></div>
-</div>
-</div>
-		<div class="en__component en__component--row en__component--row--1">
-		<div class="en__component en__component en__component--column">
 		<div class="en__component en__component--copyblock"
 
 style="
@@ -561,11 +561,13 @@ style="
 
 "
 >
-	<h1>Thank you for taking action</h1>
+	<p>&nbsp;</p>
 
-<p>Thank you for supporting our campaign to help children before they reach crisis point. We run vital services which help children facing multiple problems in their lives.</p>
+<h1>Help us tackle the issues which affect vulnerable children near you</h1>
 
-<p>Can you donate today so that we can run more services?</p>
+<p>You&#39;ve&nbsp;called on your MP to make vulnerable children a priority and sent them clear policies to&nbsp;tackle the issues in your constituency. To&nbsp;keep up the pressure, if you can, please donate so we can continue this important work.&nbsp;</p>
+
+<p>All fields marked with an asterisk must be completed.</p>
 
 	
 	
@@ -573,7 +575,7 @@ style="
 		<div class="en__component en__component--formblock" style="">
 	
 	
-		<div class="en__field en__field--radio en__field--withOther en__field--77525 en__field--donationAmt en__mandatory">
+		<div class="en__field en__field--radio en__field--withOther en__field--53002 en__field--donationAmt en__mandatory">
 	<label class="en__field__label en__field__label--positionabove" style="">Select a donation amount </label>
 	<div class="en__field__element en__field__element--radio en__field__element--layoutvertical
 	 en__field__element--labelsright" >
@@ -1026,7 +1028,7 @@ style="
 		<div class="en__component en__component--formblock" style="">
 	
 	
-		<input type="hidden" class="en__field__input en__field__input--hidden" name="supporter.appealCode" value="DMDC17A" />
+		<input type="hidden" class="en__field__input en__field__input--hidden" name="supporter.appealCode" value="DMDC17B" />
 
 	
 	
@@ -1577,4 +1579,4 @@ style="
 </html>
 
 
-<!-- GCR17A_GoodChildhoodAfterCampaign_2017_DC228 :13076:76358:1936 -->
+<!-- DMDC17B_AfterCampaignAction_2017_DC174:10449:72224:1936 -->
