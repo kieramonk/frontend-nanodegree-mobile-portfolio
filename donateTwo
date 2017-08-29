@@ -1,0 +1,1582 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    
+    <!-- begin optimisely snippet -->
+    <script src="//cdn.optimizely.com/js/2213752274.js"></script>
+    <!-- end optimisely snippet -->
+    <script type="text/javascript">
+        var dataLayer = [];
+    </script>
+    <script>(function (a, c, b, e) {
+        a[b] = a[b] || {}; a[b].initial = { accountCode: "THECH11148", host: "THECH11148.pcapredict.com" };
+        a[b].on = a[b].on || function () { (a[b].onq = a[b].onq || []).push(arguments) }; var d = c.createElement("script");
+        d.async = !0; d.src = e; c = c.getElementsByTagName("script")[0]; c.parentNode.insertBefore(d, c)
+    })(window, document, "pca", "//THECH11148.pcapredict.com/js/sensor.js");</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="We are a charity working to support vulnerable children in England and Wales. Find out how you can help and make a difference with a donation." />
+    <title>The Children's Society | Donate | Campaigns</title>
+    <link rel="shortcut icon" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/favicon.ico" type="image/x-icon">
+    
+    
+    <link type="text/css" rel="stylesheet" href="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/tcs-enstyles.css?v=1426064077000" media="all" />
+    
+    
+    <link type="text/css" rel="stylesheet" href="https://cloud.webtype.com/css/bcaa6564-c01f-460c-981f-44712ab1a0cc.css" media="all" rel="stylesheet" type="text/css" />
+    <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/b822315c-f8d9-4cde-817b-1c7e4dcb5c0b.css" media="all" />
+    
+    
+    <link type="text/css" rel="stylesheet" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/css/style.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/css/blue.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/css/chosen.min.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/css/mail.css" media="all" />
+    
+    <!--[if lte IE 8]>
+    <link type="text/css" rel="stylesheet" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/css/ie-style.css" media="all" />
+    <![endif]-->
+    
+    <!--[if IE 9]>
+    <link type="text/css" rel="stylesheet" href="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/css/ie9-style.css" media="all" />
+    <![endif]-->
+    <style>
+    html {
+      background: #ffffff;
+    }
+    .en_content, body {
+      background-color: #FFFFFF;
+    }
+    
+    #main-wrapper{
+      background-color: #fff;
+      padding: 40px 30px 30px;
+      margin-left: auto;
+      margin-right: auto;
+      margin: 0 auto;
+      max-width: 1220px;
+    }
+    @media (min-width: 40em) {
+      #main-wrapper {
+          width: 97%;
+      }
+    }
+    @media (min-width: 50em) {
+      #main-wrapper {
+          width: 94%;
+      }
+    }
+    
+    
+    #page-wrapper h1,
+    #page-wrapper h2,
+    #page-wrapper h3,
+    #page-wrapper h4,
+    #page-wrapper h5 {
+      margin-bottom: 1em;
+    }
+    
+    #page-wrapper h2,
+    #page-wrapper h3,
+    #page-wrapper h4,
+    #page-wrapper h5 {
+      margin-top: 1.5em;
+    }
+    
+    form img {
+      max-width: 100%;
+      height: auto !important;
+      margin-bottom: 1em;
+    }
+    #page-wrapper header img {
+      margin-bottom: 0;
+    }
+    
+    #page-wrapper p {
+      max-width: 62em;
+    }
+    
+    .en__component--row .en__component--column--2 {
+      padding-left: 5%;
+    }
+    @media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+      .en__component--row .en__component--column--2 {
+        padding-left: 0;
+      }
+    }
+    
+    #block-panels-mini-mega-menu #top-level-menu ul {
+      font-size: 0;
+    }
+    #block-panels-mini-mega-menu #top-level-menu li {
+      font-size: 14px;
+    }
+    
+    div.tooltip {
+      background: none repeat scroll 0 0 #292f58;
+      width: 1.4em;
+      height: 1.4em;
+      border-radius: 250px;
+      font-size: 1em;
+      color: #fff;
+      line-height: 1.4em;
+      text-align: center;
+      cursor: help;
+      position: absolute;
+      top: 0;
+      right: 0px;
+      margin: 1.05em .5em 0.85em;
+      display:none;
+    }
+    
+    body#en__pagebuilder div.tooltip {
+      display:inline-block;
+      position: initial;
+    }
+    body#en__pagebuilder div.tooltip::after {
+      content: "Tooltip";
+      display:inline-block;
+      color: black;
+      background: white;
+      border: 1px solid black;
+    }
+    
+    div.tooltip.show-tooltip {
+      display:block;
+    }
+    
+    div.tooltip-container {
+      position:relative;
+      display:inline-block;
+    }
+    
+    
+    .ui-tooltip {
+      padding: 8px;
+      color: black;
+      border-radius: 0px;
+      font:  15px "Benton Sans", "Benton", Arial, Helvetica, sans-serif;
+      box-shadow: 0 0 5px #aaa;
+    }
+    
+    #main-wrapper div.en__component--column {
+      min-width: initial;
+    }
+    .en__field .en__field__element {
+      width: 100%;
+    }
+    
+    .en__field__error {
+      color: red;
+      font-style: italic;
+    }
+    
+    
+    .en__field .en__field__label{
+      font-family: "Benton-Bold", Arial, Helvetica, sans-serif;
+      font-weight: normal;
+      display: block;
+      text-decoration: none;
+      cursor: pointer;
+      padding: 0 1.5em 5px 0;
+      margin-bottom: 0em;
+      width: 100%;
+      max-width: 80%;
+    }
+    
+    .en__field .en__field__label--item{
+      font-family: Arial, Helvetica, sans-serif;
+      float: none;
+      display: inline-block;
+      clear: none !important;
+      position: relative;
+      margin: 0px;
+      margin-left: 5px;
+      padding: 0;
+      width: auto;
+      font-weight: normal;
+      vertical-align: baseline;
+    }
+    
+    .en__mandatory .en__field__label::after {
+      content: " *";
+      color: red;
+    }
+    .en__mandatory .en__field__label--item::after {
+      content: none;
+    }
+    
+    
+    .en__field .en__field__item {
+      padding: 0;
+      width: 100%;
+      padding: 0 0 5px 0;
+    }
+    
+    .en__field .en__field__item input {
+      clear: both;
+      position: relative;
+      display: inline-block;
+      padding: 0;
+      margin: 0 2px 0 0;
+      font-size: 14px;
+      line-height: 1.5em;
+      vertical-align: baseline;
+    }
+    
+    .en__field__item.en__field__item--other,
+    .en__field .en__field__element--text,
+    .en__field .en__field__element--textarea {
+      width: 100%;
+      max-width: 35em;
+    }
+    
+    .en__field__item.en__field__item--other input,
+    .en__field .en__field__element--text input,
+    .en__field .en__field__element--textarea textarea {
+      width: 100%;
+      -webkit-appearance: none;
+      border: black 1px solid;
+      max-width: 35em;
+      padding: 1.05em 1em 0.85em;
+      line-height: 1em;
+    }
+    
+    
+    .en__field .en__field__element select {
+      padding: 8px;
+      height:3em;
+      border: 1px solid #000000;
+      background-color: #ebebeb;
+      border-radius: 0;
+      -webkit-border-radius: 0px;
+    }
+    
+    .en__field .en__field__element--select {
+    
+    }
+    
+    .en__field .en__field__element--splitselect,
+    .en__field .en__field__element--tripleselect {
+      width: auto;
+    }
+    
+    .en__field .en__field__element--splitselect .en__field__item,
+    .en__field .en__field__element--tripleselect .en__field__item {
+      width: auto;
+    }
+    
+    
+    .en__submit {
+      margin-top: 1em;
+    }
+    
+    .en__submit button{
+      background-color: #C52827;
+      color: #FFFFFF;
+      text-transform: uppercase;
+      border: 1px solid #C52827;
+      border-radius: 0;
+      padding: 0.7em 2em 0.5em 2em;
+    }
+    
+    .en__component--copyblock {
+      max-width: 62em;
+    }
+    
+    .en__component--row--2 .en__component--copyblock {
+    }
+    
+    .en__field.en__field--ccvv input {
+      width: 6em;
+      padding-right: 2em;
+    }
+    
+    .en__field--gift-aid-declaration {
+      background-color: #EAEAEA;
+      padding: 1em;
+      max-width: 62em;
+      margin-bottom: 2em;
+    }
+    
+    #page-wrapper .en__component--copyblock.direct-debit-guarantee img {
+      margin-bottom: 0;
+    }
+    
+    #page-wrapper .en__component--copyblock.direct-debit-guarantee ul {
+      list-style-type: disc !important;
+    }
+    
+    #page-wrapper .en__component--copyblock.direct-debit-guarantee li {
+      background-color: #FFFFFF !important;
+      border: none !important;
+      color: #000 !important;
+      display: list-item !important;
+      list-style: disc !important;
+      text-transform: none !important;
+      margin-left: 15px !important;
+      padding: 5px !important;
+    }
+    
+    .direct-debit-declaration {
+      max-width: 62em;
+    }
+    
+    
+    
+    #en__field_supporter_title {
+      min-width: auto;
+    }
+    
+    .en__field--event-time-christingle-hh .en__field__input,
+    .en__field--event-time-christingle-mm .en__field__input {
+      min-width: auto;
+    }
+    .en__field--event-time-christingle-mm  {
+      position: absolute;
+      margin-top: -60px;
+      margin-left: 60px;
+    }
+    
+    .en__field--event-time-christingle-mm label.en__field__label {
+      display: none;
+    }
+    .en__field--event-time-christingle-hh .en__field__element--select,
+    .en__field--event-time-christingle-mm .en__field__element--select  {
+      display: inline-block;
+      width: auto;
+    }
+    
+    #en__field_supporter_questions_44174,
+    #en__field_supporter_questions_36361,
+    #en__field_supporter_questions_36342,
+    #en__field_supporter_questions_36314 {
+      background-color: white;
+      border: solid 2px #c9c9c9 !important;
+      transition: border 0.3s;
+      font-style: italic;
+    }
+    
+    
+    
+    .opt-in-questions .en__field--question {
+      padding-bottom: 0;
+    }
+    
+    
+    .en__field--gift-aid-declaration > label.en__field__label,
+    .opt-in-questions .en__field--question > label.en__field__label {
+      display: none;
+    }
+    
+    
+    .en__ticketBlock button[type='submit'] {
+      width: 100%;
+    
+        background-color: #C52827;
+        color: #FFFFFF;
+        text-transform: uppercase;
+        border: 1px solid #C52827;
+        border-radius: 0;
+        padding: 0.7em 2em 0.5em 2em;
+    }
+    
+    .en__registrants__registrant {
+      width: 100%
+    }
+    
+    
+    /* Social replace buttons */
+    
+    .en__shares--simple.social-replace {
+      clear:none;
+      margin-left: 0;
+      margin-bottom: 20px;
+      max-width: 62em;
+    }
+    .en__shares--simple.social-replace .en__share{
+      max-width: 340px;
+      height: auto;
+      float: left;
+    }
+    .en__shares--simple.social-replace .en__share .inner{
+      border: #cccccc 5px solid;
+      margin-left: 20px;
+      margin-right: 20px;
+      padding:20px;
+    }
+    .en__shares--simple.social-replace .en__share .inner h3{
+      margin-bottom: 20px;
+    }
+    
+    .en__shares--simple.social-replace .en__share__button--simple {
+      height:auto;
+      width:auto;
+      background: none;
+      border: none;
+    }
+    .en__shares--simple.social-replace .en__share.en__share--twitter{
+    
+    }
+    .en__shares--simple.social-replace .en__share.en__share--facebook{
+    
+    }
+    @media only screen and (max-width: 800px), only screen and (max-device-width: 800px) {
+      .en__shares--simple.social-replace .en__share .inner{
+      margin-left: 0px;
+      margin-right: 0px;
+      }
+    }
+    
+    @media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+      .en__component--socialblock .en__shares--simple.social-replace .en__share{
+        width: 100%;
+        margin-bottom: 20px;
+      }
+    
+      .en__component--socialblock .en__shares--simple.social-replace {
+        flex-wrap: wrap;
+      }
+    
+      .en__shares--simple.social-replace .en__share{
+        float: none;
+      }
+      .en__component--socialblock .en__shares--simple.social-replace .en__share .inner{
+        margin-left: 0;
+        margin-right: 0;
+      }
+    }
+    </style>
+  <meta name="title" content=""/>
+<meta property="og:title" content=""/>
+<meta property="og:description" content=""/>
+<meta name="description" content=""/>
+<meta property="og:image" content=""/>
+<link rel="canonical" href="https://donate.childrenssociety.org.uk/page/10449/donate/1?mode=DEMO&amp;locale=en-GB"/>
+<meta property="og:url" content="https://donate.childrenssociety.org.uk/page/10449/donate/1?mode=DEMO&amp;locale=en-GB"/>
+<link rel="image_src" href=""/>
+<link href='/ea-demo/frontend/pbAssets/build/css/enPage.css' rel='stylesheet' type='text/css' />
+<script src='/page/10449/campaigner/0/pagedata.js?locale=en-GB'></script>
+<script src='/ea-demo/frontend/pbAssets/build/js/enPage.js'></script>
+<script>var pageJson = {"campaignPageId":10449,"pageNumber":1,"campaignId":72224,"clientId":1936,"pageName":"DMDC17B_AfterCampaignAction_2017_DC174","giftProcess":false,"locale":"en-GB"};</script>
+</head>
+  <body>
+    
+    <!-- Google Tag Manager -->
+      <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MC55KT" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+      </noscript>
+      <script>
+        (function(w,d,s,l,i){
+          w[l]=w[l]||[];
+          w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+          var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+          j.async=true;
+          j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+          f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MC55KT');
+      </script>
+      <!-- End Google Tag Manager -->
+    <div id="page-wrapper">
+      <div id="page-canvas">
+        <header>
+            <div class="row inner-wrap">
+              <div class="black-bg">&nbsp;</div>
+              <div class="container">
+            
+                <div class="row">
+                  <a href="https://www.childrenssociety.org.uk/" title="Home" rel="home" id="logo">
+                    <img src="https://www.childrenssociety.org.uk/sites/all/themes/custom/the_childrens_society/logo.png" alt="Home" width="240">
+                  </a>
+                </div>
+              </div>
+              <!-- END .container -->
+            </div>
+            <!-- END .inner-wrap -->
+        </header>
+          <div class="region region-navigation">
+            <div id="block-panels-mini-mega-menu" class="block block-panels-mini">
+          
+              <div class="container mega-menu-wrap" id="mini-panel-mega_menu">
+                <div class="row" id="top-level-menu">
+                  <div class="panel-pane pane-block pane-system-main-menu first last">
+          
+                    <ul class="menu"><li class="first leaf" data-child="item-home"><a href="https://www.childrenssociety.org.uk/" class="active">Home</a></ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <div id="main-wrapper">
+
+<form method="post" action="2" class="en__component en__component--page">
+	<input type="hidden" name="hidden" class="en__hiddenFields" value="">
+    <input type="hidden" name="sessionId" value="b272ad9c318d4b7c990b2c60875186f6-server10150">
+
+	
+	<ul class="en__errorList">
+	</ul>
+
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--imageblock">
+	<img src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/ChrisThankYouPS1160x250.jpg?v=1497021785000" class="pageImage" alt="" data-unit="px" data-ratio-lock="false" style="height: 250px; width: 1160px;">
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--codeblock"><style>
+     /* Always show other box */
+    .en__field--donationAmt .en__field__item--other.en__field__item--hidden {
+        display: inline-block;
+    }
+</style>
+<script>
+    /* Select 'other' radio when other box clicked */
+    $(document).ready(function() {
+        $( "input.en__field__input--other" ).click(function() {
+          $( ".en__field--donationAmt .en__field__element--radio .en__field__input--radio" ).last().prop("checked", true);
+        });
+    });
+</script></div>
+		<div class="en__component en__component--copyblock"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	<p>&nbsp;</p>
+
+<h1>Help us tackle the issues which affect vulnerable children near you</h1>
+
+<p>You&#39;ve&nbsp;called on your MP to make vulnerable children a priority and sent them clear policies to&nbsp;tackle the issues in your constituency. To&nbsp;keep up the pressure, if you can, please donate so we can continue this important work.&nbsp;</p>
+
+<p>All fields marked with an asterisk must be completed.</p>
+
+	
+	
+</div>
+		<div class="en__component en__component--formblock" style="">
+	
+	
+		<div class="en__field en__field--radio en__field--withOther en__field--53002 en__field--donationAmt en__mandatory">
+	<label class="en__field__label en__field__label--positionabove" style="">Select a donation amount </label>
+	<div class="en__field__element en__field__element--radio en__field__element--layoutvertical
+	 en__field__element--labelsright" >
+		<div class="en__field__item">
+			<input type="radio" class="en__field__input en__field__input--radio" value="10" name="transaction.donationAmt" id="en__field_transaction_donationAmt0" />
+			<label class="en__field__label en__field__label--item" for="en__field_transaction_donationAmt0">£10</label>
+		</div>
+		<div class="en__field__item">
+			<input checked type="radio" class="en__field__input en__field__input--radio" value="25" name="transaction.donationAmt" id="en__field_transaction_donationAmt1" />
+			<label class="en__field__label en__field__label--item" for="en__field_transaction_donationAmt1">£25</label>
+		</div>
+		<div class="en__field__item">
+			<input type="radio" class="en__field__input en__field__input--radio" value="50" name="transaction.donationAmt" id="en__field_transaction_donationAmt2" />
+			<label class="en__field__label en__field__label--item" for="en__field_transaction_donationAmt2">£50</label>
+		</div>
+		<div class="en__field__item">
+			<input type="radio" class="en__field__input en__field__input--radio" value="75" name="transaction.donationAmt" id="en__field_transaction_donationAmt3" />
+			<label class="en__field__label en__field__label--item" for="en__field_transaction_donationAmt3">£75</label>
+		</div>
+		<div class="en__field__item">
+			<input type="radio" class="en__field__input en__field__input--radio" value="100" name="transaction.donationAmt" id="en__field_transaction_donationAmt4" />
+			<label class="en__field__label en__field__label--item" for="en__field_transaction_donationAmt4">£100</label>
+		</div>
+		<div class="en__field__item">
+			<input type="radio" class="en__field__input en__field__input--radio" value="Other amount" name="transaction.donationAmt" id="en__field_transaction_donationAmt5" />
+			<label class="en__field__label en__field__label--item" for="en__field_transaction_donationAmt5">Other amount</label>
+		</div>
+		<div class="en__field__item en__field__item--other en__field__item--hidden">
+			<input class="en__field__input en__field__input--other" type="text"  name="transaction.donationAmt.other" value="" />
+		</div>
+	</div>
+</div>
+	
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--copyblock"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	<hr />
+<h1>Gift Aid</h1>
+
+<p><strong>Increase the value of your gift by 25%</strong>&nbsp;</p>
+
+<p><strong>If you are a UK taxpayer, the value of your gift can be increased by 25% under the Gift Aid scheme at no extra cost to you.</strong>&nbsp;</p>
+
+<p><strong>This means every time you donate &pound;10 it&rsquo;s worth &pound;12.50 to us.</strong></p>
+
+<p><strong>Please note that we can only Gift Aid donations from individual donors - if you&#39;re paying in a donation from a collection/event or business please do not tick the box to Gift Aid this donation. &nbsp;If you pay less Income Tax and/or Capital Gains Tax than the amount of Gift Aid claimed on all of your donations in that tax year it is your responsibility to pay any difference.&nbsp;</strong></p>
+
+<p><strong>Please note Gift Aid is reclaimed by the charity from the tax you pay for the current tax year and your address is needed to identify you as a UK taxpayer.</strong></p>
+
+	
+	
+</div>
+		<div class="en__component en__component--formblock" style="">
+	
+	
+		<div class="en__field en__field--checkbox en__field--question en__field--2901 en__field--gift-aid-declaration">
+	<label class="en__field__label" style="">Gift aid </label>
+	<div class="en__field__element en__field__element--checkbox
+	 en__field__element--labelsright" >
+		<div class="en__field__item">
+			<input id="en__field_supporter_questions_2901" type="checkbox" class="en__field__input en__field__input--checkbox" value="Yes" name="supporter.questions.2901" />
+			<label for="en__field_supporter_questions_2901" class="en__field__label en__field__label--item" >Yes, I am a UK tax payer and I would like The Children’s Society to treat all donations I have made for the four years prior to this tax year, today, and all donations I make from the date of this declaration as Gift Aid donations, until I notify you otherwise.</label>
+		</div>
+	</div>
+</div>
+	
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--copyblock"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	<hr />
+<p>&nbsp;</p>
+
+<h1>Tell us about yourself&nbsp;</h1>
+
+<p>&nbsp;</p>
+
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+		<div class="en__field en__field--select en__field--44627 en__field--title en__mandatory">
+	<label for="en__field_supporter_title" class="en__field__label" style="">Title</label>
+	<div class="en__field__element en__field__element--select">
+		<select id="en__field_supporter_title" class="en__field__input en__field__input--select" name="supporter.title" >
+			<option value="Please select">Please select</option>
+			<option value="Mr">Mr</option>
+			<option value="Mrs">Mrs</option>
+			<option value="Miss">Miss</option>
+			<option value="Dr">Dr</option>
+			<option value="Prof">Prof</option>
+			<option value="Other">Other</option>
+		</select>
+	</div>
+</div>
+		<div class="en__field en__field--text en__field--44600 en__field--firstName en__mandatory">
+	<label for="en__field_supporter_firstName" class="en__field__label" style="">First Name</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_firstName" type="text" class="en__field__input en__field__input--text" name="supporter.firstName" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44641 en__field--lastName en__mandatory">
+	<label for="en__field_supporter_lastName" class="en__field__label" style="">Last Name</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_lastName" type="text" class="en__field__input en__field__input--text" name="supporter.lastName" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44599 en__field--emailAddress en__mandatory">
+	<label for="en__field_supporter_emailAddress" class="en__field__label" style="">Email Address</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_emailAddress" type="text" class="en__field__input en__field__input--text" name="supporter.emailAddress" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44628 en__field--NOT_TAGGED_2">
+	<label for="en__field_supporter_NOT_TAGGED_2" class="en__field__label" style="">Mobile Number</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_NOT_TAGGED_2" type="text" class="en__field__input en__field__input--text" name="supporter.NOT_TAGGED_2" value="" />
+	 </div>
+</div>
+	
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--copyblock"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	<hr />
+
+<p><h1>Your payment information</h1></p>
+
+<p>If donating via Paypal, please select from the list, complete your details and click donate.</p>
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--copyblock"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	
+
+<div class="paymentmethods"><img alt="visa_small.gif" border="0" height="22" src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/visa_small.gif" title="visa_small.gif" width="50" /><img alt="mastercd_small.gif" border="0" height="32" src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/mastercd_small.gif" title="mastercd_small.gif" width="50" />&nbsp;<img alt="amex_small.gif" border="0" height="32" src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/amex_small.gif" title="amex_small.gif" width="50" />&nbsp;<img alt="vme-acceptance-vertical.png" border="0" height="31" src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/vme-acceptance-vertical.png" title="vme-acceptance-vertical.png" width="50" /><img alt="Paypal" border="0" height="27" src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/paypal-logo.png?v=1425309256000" title="Paypal" width="67" /></div>
+
+
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+		<div class="en__field en__field--select en__field--65702 en__field--paymenttype en__mandatory">
+	<label for="en__field_transaction_paymenttype" class="en__field__label" style="">Payment Type</label>
+	<div class="en__field__element en__field__element--select">
+		<select id="en__field_transaction_paymenttype" class="en__field__input en__field__input--select" name="transaction.paymenttype" >
+			<option value="visa">Visa</option>
+			<option value="mastercard">Mastercard</option>
+			<option value="amex">American Express</option>
+			<option value="Paypal">Paypal</option>
+		</select>
+	</div>
+</div>
+		<div class="en__field en__field--text en__field--65703 en__field--creditCardHolderName en__mandatory">
+	<label for="en__field_supporter_creditCardHolderName" class="en__field__label" style="">Credit Card Holder Name</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_creditCardHolderName" type="text" class="en__field__input en__field__input--text" name="supporter.creditCardHolderName" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--65692 en__field--ccnumber en__mandatory">
+	<label for="en__field_transaction_ccnumber" class="en__field__label" style="">Credit Card Number</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_transaction_ccnumber" type="text" class="en__field__input en__field__input--text" name="transaction.ccnumber" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--splitselect en__field--65701 en__field--ccexpire en__mandatory">
+	<label for="en__field_transaction_ccexpire" class="en__field__label" style="">Credit Card Expiration</label>
+	<div class="en__field__element en__field__element--splitselect">
+		<input type="hidden" name="transaction.ccexpire.delimiter" value="">
+		<div class="en__field__item">
+			<select id="en__field_transaction_ccexpire" class="en__field__input en__field__input--splitselect" name="transaction.ccexpire" >
+				<option value="01">01</option>
+				<option value="02">02</option>
+				<option value="03">03</option>
+				<option value="04">04</option>
+				<option value="05">05</option>
+				<option value="06">06</option>
+				<option value="07">07</option>
+				<option value="08">08</option>
+				<option value="09">09</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+			</select>
+		</div>
+		<div class="en__field__item">
+		<select class="en__field__input en__field__input--splitselect" name="transaction.ccexpire" >
+				<option value="2017">2017</option>
+				<option value="2018">2018</option>
+				<option value="2019">2019</option>
+				<option value="2020">2020</option>
+				<option value="2021">2021</option>
+				<option value="2022">2022</option>
+			</select>
+		</div>
+	</div>
+</div>
+		<div class="en__field en__field--text en__field--65704 en__field--ccvv en__mandatory">
+	<label for="en__field_transaction_ccvv" class="en__field__label" style="">Credit Card Verification Value</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_transaction_ccvv" type="text" class="en__field__input en__field__input--text" name="transaction.ccvv" value="" />
+	 </div>
+</div>
+		<input type="hidden" class="en__field__input en__field__input--hidden" name="transaction.paycurrency" value="GBP" />
+
+	
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--copyblock"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	<hr />
+<p><h1>Your billing address</h1></p>
+
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--copyblock"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	
+	
+	
+</div>
+		<div class="en__component en__component--formblock address-search" style="">
+	
+	
+		<div class="en__field en__field--text en__field--question en__field--36342 en__field--address-search">
+	<label for="en__field_supporter_questions_36342" class="en__field__label" style="">Search for your address</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_questions_36342" type="text" class="en__field__input en__field__input--text" name="supporter.questions.36342" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44630 en__field--address1 en__mandatory">
+	<label for="en__field_supporter_address1" class="en__field__label" style="">Address 1</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_address1" type="text" class="en__field__input en__field__input--text" name="supporter.address1" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44648 en__field--address2">
+	<label for="en__field_supporter_address2" class="en__field__label" style="">Address 2</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_address2" type="text" class="en__field__input en__field__input--text" name="supporter.address2" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44649 en__field--city en__mandatory">
+	<label for="en__field_supporter_city" class="en__field__label" style="">City</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_city" type="text" class="en__field__input en__field__input--text" name="supporter.city" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44629 en__field--region">
+	<label for="en__field_supporter_region" class="en__field__label" style="">County</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_region" type="text" class="en__field__input en__field__input--text" name="supporter.region" value="" />
+	 </div>
+</div>
+		<div class="en__field en__field--text en__field--44647 en__field--postcode en__mandatory">
+	<label for="en__field_supporter_postcode" class="en__field__label" style="">Postcode</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_postcode" type="text" class="en__field__input en__field__input--text" name="supporter.postcode" value="" />
+	 </div>
+</div>
+	
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--copyblock opt-in-introduction"
+
+style="
+
+
+
+
+
+
+
+"
+>
+	<h2>Keeping in touch</h2>
+
+<p>The Children&rsquo;s Society would like to contact you about how you can support vulnerable children by campaigning, raising awareness and providing financial support.</p>
+
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--row--1">
+		<div class="en__component en__component en__component--column">
+		<div class="en__component en__component--formblock opt-in-questions" style="">
+	
+	
+		<div class="en__field en__field--checkbox en__field--question en__field--2951 en__field--opt-in-dm-email">
+	<label class="en__field__label" style="">Email opt-in </label>
+	<div class="en__field__element en__field__element--checkbox
+	" >
+		<div class="en__field__item">
+			<input id="en__field_supporter_questions_2951" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.2951" />
+			<label for="en__field_supporter_questions_2951" class="en__field__label en__field__label--item" >Yes, I’m happy to be contacted by email</label>
+		</div>
+	</div>
+</div>
+		<div class="en__field en__field--checkbox en__field--question en__field--2952 en__field--opt-in-dm-sms">
+	<label class="en__field__label" style="">Opt-in DM SMS</label>
+	<div class="en__field__element en__field__element--checkbox
+	" >
+		<div class="en__field__item">
+			<input id="en__field_supporter_questions_2952" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.2952" />
+			<label for="en__field_supporter_questions_2952" class="en__field__label en__field__label--item" >Yes, I’m happy to be contacted by text</label>
+		</div>
+	</div>
+</div>
+		<div class="en__field en__field--checkbox en__field--question en__field--2953 en__field--opt-in-post">
+	<label class="en__field__label" style="">Opt-in post</label>
+	<div class="en__field__element en__field__element--checkbox
+	" >
+		<div class="en__field__item">
+			<input id="en__field_supporter_questions_2953" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.2953" />
+			<label for="en__field_supporter_questions_2953" class="en__field__label en__field__label--item" >Yes, I’m happy to be contacted by post</label>
+		</div>
+	</div>
+</div>
+		<div class="en__field en__field--checkbox en__field--question en__field--2961 en__field--opt-in-phone">
+	<label class="en__field__label" style="">Opt-in phone</label>
+	<div class="en__field__element en__field__element--checkbox
+	" >
+		<div class="en__field__item">
+			<input id="en__field_supporter_questions_2961" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.2961" />
+			<label for="en__field_supporter_questions_2961" class="en__field__label en__field__label--item" >Yes, I’m happy to be contacted by telephone</label>
+		</div>
+	</div>
+</div>
+	
+	
+	
+</div>
+		<div class="en__component en__component--formblock" style="">
+	
+	
+		<input type="hidden" class="en__field__input en__field__input--hidden" name="supporter.appealCode" value="DMDC17B" />
+
+	
+	
+	
+</div>
+		<div class="en__component en__component--formblock" style="">
+	
+	
+	
+	<div class="en__submit"><button style="">Submit</button></div>
+	
+</div>
+</div>
+</div>
+</form>        </div> 
+        <footer>
+          <div class="container">
+            <div class="region region-footer">
+              <div id="block-panels-mini-footer" class="block block-panels-mini">
+                <div class="row footer" id="mini-panel-footer">
+                  <div class="span-3 first">
+                    <div class="panel-pane pane-custom pane-1 first last">
+        
+                      <h2 class="pane-title">Contact Us</h2>
+                      <p>The Children&#x27;s Society<br /> Edward Rudolf House <br /> Margery St. London <br /> WC1X 0JL
+        </p>
+                    </div>
+                  </div>
+                  <div class="span-3 second">
+                    <div class="panel-pane pane-block pane-menu-menu-footer-menu first last">
+                      <ul class="menu">
+                        <li class="first leaf"><a href="https://www.childrenssociety.org.uk/accessibility-statement" title="">Accessibility statement</a></li>
+                        <li class="leaf"><a href="https://www.childrenssociety.org.uk/about-us/contact-us" title="">Contact us</a></li>
+                        <li class="leaf"><a href="https://www.childrenssociety.org.uk/content/cookie-and-privacy-policies" title="">Cookie and privacy policies</a></li>
+                        <li class="last leaf"><a href="https://www.childrenssociety.org.uk/terms-conditions" title="">Terms and conditions</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="span-3 third">
+                    <div class="panel-pane pane-block pane-tcs-social-share-sharing-follow first last">
+        
+                      <h2 class="pane-title">Follow us</h2>
+        
+        
+                      <div class="addthis_horizontal_follow_toolbox">
+                        <p>
+                          <a href="https://twitter.com/childrensociety" target="_blank" style="border-bottom: none!important;">
+                            <img src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/TCSheader_twitter.png?v=1425311211000" border="0" alt="Twitter" width="34" height="32">
+                          </a>&nbsp;&nbsp;
+                          <a href="https://www.facebook.com/childrenssociety" target="_blank" style="border-bottom: none!important;">
+                            <img src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/TCSheader_facebook.png?v=1425311207000" border="0" alt="Facebook" width="32" height="32">
+                          </a>&nbsp;&nbsp;
+                          <a href="https://plus.google.com/+childrenssociety" target="_blank" style="border-bottom: none!important;">
+                            <img src="https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1936/TCSheader_google.png?v=1425311209000" border="0" alt="Google Plus" width="32" height="32">
+                          </a>
+                        </p>
+                      </div>
+        
+                    </div>
+        
+                  </div>
+                  <div class="span-3 last">
+                    <div class="panel-pane pane-custom pane-2 first last">
+                      <p>&copy; The Children's Society 2017</p> <p>All rights reserved</p>
+        
+                      <p>Charity Registration No. 221124</p>
+        
+                    </div>
+        
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div> 
+    </div> 
+    
+    <script type="text/javascript">// <![CDATA[
+    if (pageJson.hasOwnProperty('donationLogId')){
+      dataLayer.push({
+        'event': 'DonationProcessed',
+        'transactionId': pageJson.donationLogId.toString(),
+        'transactionAffiliation': pageJson.campaignId.toString(),
+        'transactionCurrency': pageJson.currency,
+        'transactionTotal': pageJson.amount,
+        'transactionProducts': [{
+          'sku': 'DONATION01',
+          'name': pageJson.pageName + 'Single Donation',
+          'category': 'Donations',
+          'price': pageJson.amount,
+          'quantity': 1
+        }],
+      });
+    }
+    // ]]></script>
+    <!-- Hotjar Tracking Code for http://www.childrenssociety.org.uk/ -->
+    <script type="text/javascript">// <![CDATA[
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:462035,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    // ]]></script>
+    <script type="text/javascript">// <![CDATA[
+    $(function(){
+    
+      // Replace all social sharing links of a 'Simple' type with more descriptive markup and a button
+      $( ".en__shares--simple .en__share--simple" ).each(function( index ) {
+        var share = $(this);
+        var linkElement = share.children('a');
+        var snName = '';
+        var snButton = 'https://www.childrenssociety.org.uk/sites/default/files/en-assets/';
+    
+    
+         // Need this to remove the EN width/heights
+        $('.en__shares--simple').addClass('social-replace');
+    
+        if($(share).hasClass('en__share--twitter')){
+          snName = 'Twitter';
+          snButton += 'square-tweet-button.jpg';
+        }else if($(share).hasClass('en__share--facebook')){
+          snName = 'Facebook';
+          snButton += 'square-facebook-share-button.jpg';
+        }else if($(share).hasClass('en__share--gplus')){
+          snName = 'Google+';
+          snButton += 'square-google-share-button.png';
+        }
+    
+        var imageElement = $('<img></img>').attr('src', snButton).attr('alt','');
+        linkElement
+          .empty()
+          .append(imageElement)
+          .wrap('<div class="inner"></div>')
+          .before('<h3>Share this</h3><p>Click the button below to share the link on ' + snName + '</p>');
+      });
+    
+    });
+    // ]]></script>
+    <script type="text/javascript" async>
+      $(document).ready(function() {
+        
+         /**
+          *
+          * Bind the Mega Menu functionality to the global TCS object
+          *
+          */
+          MobileMenu = {
+            maxScroll       : 0,
+            moving          : false,
+            open            : false,
+            touchEnd        : 0,
+            touchLastClientY: 0,
+            touchMoveScroll : 0,
+        
+           /**
+            *
+            * A function to initilise the Mobile Menu
+            *
+            * This function calls a function to
+            * initialise all the menu event handlers
+            *
+            */
+            init: function(){
+              this.registerEvents();
+            },
+        
+           /**
+            *
+            * A function to handle the menu display controller click
+            *
+            * @param jQuery Event e
+            *
+            */
+            controlClicked: function(e){
+              e.preventDefault();
+        
+              if( !this.open ){ this.menuShow(); }
+              else{ this.menuHide(); }
+            },
+        
+           /**
+            *
+            * A function to handle a menu anchor click event
+            *
+            * This function is used to disable the click event whilst the
+            * user is scrolling through the menu
+            *
+            * @param jQuery Event e
+            *
+            */
+            linkHandler: function(e){
+              if(this.moving){ e.preventDefault(); }
+            },
+        
+           /**
+            *
+            * A wrapper function to hid the mobile menu and remove all touch listeners
+            *
+            */
+            menuHide: function(){
+              $('#page-wrapper').removeClass('mobile-nav-showing');
+              this.open = false;
+        
+              $(window).unbind('touchend');
+              $(window).unbind('touchmove');
+              $(window).unbind('touchstart');
+            },
+        
+           /**
+            *
+            * A wrapper function to show the mobile menu and register all touch listeners
+            *
+            */
+            menuShow: function(){
+              $('#page-wrapper').addClass('mobile-nav-showing');
+              this.open = true;
+        
+              var scrollTop = $(window).scrollTop();
+              $('#mobile-menu-wrap').css({'top':scrollTop+'px'});
+        
+              $(window).on('touchend',  $.proxy(this.touchEndHandler,   this) );
+              $(window).on('touchmove', $.proxy(this.touchMoveHandler,  this) );
+              $(window).on('touchstart',$.proxy(this.touchStartHandler, this) );
+            },
+        
+           /**
+            *
+            * A function to register all the event handlers
+            *
+            */
+            registerEvents: function(){
+              $(document).on('click', '#mobile-menu-control', $.proxy(this.controlClicked,this));
+              $(document).on('click', '#mobile-menu a',       $.proxy(this.linkHandler,this));
+        
+              $(window).on('load',   $.proxy(this.resizeHandler, this));
+              $(window).on('resize', $.proxy(this.resizeHandler, this));
+            },
+        
+           /**
+            *
+            * A function to handle the window resize an load events
+            *
+            * This function is used to calculate the maxScroll value
+            * based on the current window height
+            *
+            */
+            resizeHandler: function(){
+              // Use half the window height so that we can guarantee all
+              // menu items will be displayed
+              var windowHeight = $(window).height() * 0.5;
+              var menuHeight   = $('#mobile-menu').outerHeight();
+              this.maxScroll   = (windowHeight - menuHeight);
+            },
+        
+           /**
+            *
+            * A function to handle the TouchEnd event
+            *
+            * Assigns the end class to the menu to trigger the CSS transition
+            * animation that gives the illusion of scrolling inertia
+            *
+            */
+            touchEndHandler: function(e){
+              this.moving = false;
+              $('#mobile-menu').addClass('end');
+        
+              this.touchMoveScroll += this.touchEnd;
+        
+              if(this.touchMoveScroll > 0){ this.touchMoveScroll = 0; }
+              if(this.touchMoveScroll < this.maxScroll){ this.touchMoveScroll = this.maxScroll; }
+        
+              var css = {
+                '-webkit-transform': 'translateY('+this.touchMoveScroll+'px)',
+                'transform'        : 'translateY('+this.touchMoveScroll+'px)'
+              }
+        
+              $('#mobile-menu').css(css);
+            },
+        
+           /**
+            *
+            * A function to handle the TouchMove event
+            *
+            */
+            touchMoveHandler: function(e){
+              e.preventDefault();
+              $('#mobile-menu').removeClass('end');
+        
+              // Calculate the scroll size based on the current yPpos
+              // asn the previously stored yPos
+              var newPos = e.originalEvent.touches[0].clientY;
+              var diff   = Math.round((newPos - this.touchLastClientY)*2);
+        
+              // Remove 10% of the new scroll increment to use when the touch ends
+              // This is to give the illusion of scrolling inertia
+              this.touchEnd         = Math.round(diff * 0.4);
+              this.touchLastClientY = newPos;
+              this.touchMoveScroll += (diff - this.touchEnd);
+        
+              if(this.touchMoveScroll > 0){ this.touchMoveScroll = (0 - this.touchEnd); }
+              if(this.touchMoveScroll < this.maxScroll){ this.touchMoveScroll = (this.maxScroll + this.touchEnd); }
+        
+              var css = {
+                '-webkit-transform': 'translateY('+this.touchMoveScroll+'px)',
+                'transform'        : 'translateY('+this.touchMoveScroll+'px)'
+              }
+        
+              $('#mobile-menu').css(css);
+            },
+        
+           /**
+            *
+            * A function to handle the touch start event
+            *
+            * This is used to store the clientY position when the
+            * touch gesture started
+            *
+            */
+            touchStartHandler: function(e){
+              this.moving = true;
+              this.touchLastClientY = e.originalEvent.touches[0].clientY;
+            },
+          };
+        
+          MobileMenu.init();
+          function OptInApi() {
+            this.introElement = $("div.opt-in-introduction");
+            this.emailElement = $("#en__field_supporter_emailAddress");
+            this.allQuestions = $(this.questionSelector);
+            this.submitButton = $(".en__submit button, .en__ticketSummary button");
+        
+            this.hideAll();
+        
+            if (this.emailElement.length){
+              this.emailElement.change(this.onEmailChange.bind(this));
+        
+              if (this.emailElement.val().length) {
+                this.onEmailChange();
+              }
+            }
+          };
+        
+          OptInApi.prototype.questionSelector = "div.opt-in-questions .en__field--question";
+          OptInApi.prototype.onEmailChange = function() {
+            this.resetForm();
+        
+            var emailAddress = this.emailElement.val();
+            if (emailAddress) {
+              clearTimeout(this.optinTimeout);
+        
+              $.ajax({
+                type: 'GET',
+                url: "https://www.childrenssociety.org.uk/page/json/" + encodeURIComponent(emailAddress), // Update URL
+                success: this.ajaxSuccess.bind(this),
+                error: this.ajaxError.bind(this)
+              });
+        
+            }
+        
+          }
+        
+          OptInApi.prototype.hideAll = function(){
+            this.introElement.hide();
+            this.allQuestions.hide();
+          };
+        
+          OptInApi.prototype.resetForm = function(){
+            this.introElement.slideUp();
+            this.allQuestions.slideUp();
+            this.disableSubmit();
+            $("input", this.allQuestions).attr('checked', false);
+          };
+        
+          OptInApi.prototype.ajaxSuccess = function(data){
+        
+            if ($.isEmptyObject(data)){
+              data.questions = {};
+            }
+            // Keep track of unanswered question so we can show them later
+            var unansweredQuestions = this.allQuestions;
+        
+            for (var question in data.questions) {
+              if (data.questions.hasOwnProperty(question)) {
+                // Work out css class
+                var cssName = this.makeCSSName(data.questions[question].name);
+                var containingDiv = $(cssName);
+                if (containingDiv.length) {
+        
+                  unansweredQuestions = unansweredQuestions.not(containingDiv);
+        
+                  // show question if it's undefined or they previously said no
+                  var inputElement = $('input', containingDiv);
+                  var answer = data.questions[question];
+                  if(typeof answer == 'undefined' || ! answer.response){
+                    this.showQuestions(containingDiv);
+                  }
+                  else {
+                    inputElement.attr('checked', true);
+                  }
+                }
+              }
+            }
+            // Show any un-answered questions
+            this.showQuestions(unansweredQuestions);
+        
+            this.setTimeout();
+          };
+        
+          OptInApi.prototype.showQuestions = function(questions){
+            if (questions.length){
+              this.introElement.slideDown();
+              questions.slideDown();
+            }
+          }
+        
+          OptInApi.prototype.ajaxError = function() {
+            this.enableSubmit();
+            this.showQuestions(this.allQuestions);
+          };
+        
+          OptInApi.prototype.makeCSSName = function(rawName) {
+            return '.opt-in-questions .en__field--' + rawName.toLowerCase().replace(/[^a-z]/g,'-');
+          };
+        
+          OptInApi.prototype.setTimeout = function(){
+            this.optinTimeout = window.setTimeout(this.enableSubmit.bind(this), 1000);
+          };
+        
+          OptInApi.prototype.enableSubmit = function(){
+            this.submitButton.attr('disabled', false)
+              .css({
+                "background-color": "",
+                "border-color": ""
+              });
+          };
+        
+          OptInApi.prototype.disableSubmit = function(){
+            this.submitButton.attr('disabled', true)
+              .css({
+                "background-color": "#999",
+                "border-color": "#999",
+                "-webkit-transition": "background-color 0.3s, border-color 0.3s",
+                "transition": "background-color 0.3s, border-color 0.3s"
+              });
+          };
+        
+          optinAPI = new OptInApi();
+        
+        function startDateBuilder(element, totalOptions) {
+        
+        	var dateElement = $(element);
+        
+        	// do nothing if no matches
+        	if (dateElement.length == 0) {
+        		return;
+        	}
+        
+        	function convertMonthVal(m){
+        		m++;
+        		if(m<10){
+        			return "0" + m;
+        		}
+        		return m;
+        	};
+        
+        	// Start with current elements (i.e. empty select this option)
+        	var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October','November','December'];
+        	var options = [];
+        	var now = new Date();
+        	now.setDate(now.getDate() + 10);
+        	var year = now.getFullYear();
+        	var month = now.getMonth();
+        	var day = 3;
+        	while(options.length < totalOptions){
+        		for(var i=0; i<4; i++){
+        			day = 3;
+        			if(i == 1){
+        				day = 10;
+        			}
+        			else if(i == 2){
+        				day = 17;
+        			}
+        			else if(i == 3){
+        				day = 24;
+        			}
+        			newDate = new Date(year, month, day);
+        			if(newDate > now){
+        				options.push(newDate);
+        			}
+        		}
+        		if(month == 11){
+        			year++;
+        			month = 0;
+        		}else {
+        			month++;
+        		}
+        	}
+        
+        	for(var option =0; option < options.length; option++){
+        		optionDate = options[option];
+        		var valueString = optionDate.getDate() + '/' + optionDate.getMonth() + '/' + optionDate.getFullYear();
+        		var textString = optionDate.getDate() + 'th ' + months[optionDate.getMonth()] + ' ' + optionDate.getFullYear();
+        		var newOption = $('<option></option>').attr("value", valueString).text(textString);
+        		dateElement.append(newOption);
+        	}
+        }
+        
+        startDateBuilder('#en__field_supporter_NOT_TAGGED_21',5);
+        $('input[name="supporter.NOT_TAGGED_25"]').each(function(){
+          var timestamp = $.now();
+          var number = Math.floor((Math.random() * 100000000) + 1);
+          var rand = number;
+          var code = 'EN' + rand;
+          $(this).val(code);
+        
+        });
+    
+        $('#en__field_supporter_questions_36314').attr('placeholder', 'Start typing a postcode, street or address');
+        $('#en__field_supporter_questions_36342').attr('placeholder', 'Start typing a postcode, street or address');
+        $('#en__field_supporter_questions_36361').attr('placeholder', 'Start typing a postcode, street or address');
+        $('#en__field_supporter_questions_44174').attr('placeholder', 'Start typing a postcode, street or address');
+    
+        $('.tooltip').each(function(){
+          var tooltip = $(this).detach();
+          var targetID = tooltip.attr('data-tooltip-for-id');
+          var target = $('#' + targetID);
+          if (target.length > 0){
+            target.wrap("<div class='tooltip-container''></div>").after(tooltip);
+            target.parent();
+            tooltip.addClass('show-tooltip');
+          }
+        }).tooltip(
+          {
+            position: {
+              my: "center top+10",
+              at: "center bottom+10",
+            }
+          }
+        );
+    
+      });
+    </script>
+  </body>
+</html>
+
+
+<!-- DMDC17B_AfterCampaignAction_2017_DC174:10449:72224:1936 -->
